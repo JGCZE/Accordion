@@ -1,0 +1,7 @@
+.allStars {
+  display: flex;
+  list-style: none;
+  font-size: 2rem;
+  color: #000000;
+  cursor: pointer;
+}
