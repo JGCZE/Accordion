@@ -2,3 +2,9 @@
   width: 800px;
   height: 30vh;
 }
+
+.colorSection {
+  margin: 10px 10%;
+  color: white;
+  font-size: 24px;
+}
