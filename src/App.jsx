@@ -2,6 +2,7 @@ import './App.css'
 import Accordian from './components/accordion'
 import RandomColor from './components/random-color'
 import StarsRating from './components/starsRatings'
+import LoadMore from './components/load-more-data'
 
 function App() {
 
@@ -9,7 +10,8 @@ function App() {
     <>
       {/* <Accordian /> */}
       {/*  <RandomColor /> */}
-      <StarsRating />
+      {/* <StarsRating /> */}
+      <LoadMore />
     </>
   )
 }
